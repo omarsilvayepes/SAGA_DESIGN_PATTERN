@@ -1,0 +1,11 @@
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\Saga_Design_Pattern\RabbitMq_Messages\bin\Debug\net8.0\RabbitMq_Messages.deps.json
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\Saga_Design_Pattern\RabbitMq_Messages\bin\Debug\net8.0\RabbitMq_Messages.dll
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\Saga_Design_Pattern\RabbitMq_Messages\bin\Debug\net8.0\RabbitMq_Messages.pdb
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\Saga_Design_Pattern\RabbitMq_Messages\obj\Debug\net8.0\RabbitMq_Messages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\Saga_Design_Pattern\RabbitMq_Messages\obj\Debug\net8.0\RabbitMq_Messages.AssemblyInfoInputs.cache
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\Saga_Design_Pattern\RabbitMq_Messages\obj\Debug\net8.0\RabbitMq_Messages.AssemblyInfo.cs
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\Saga_Design_Pattern\RabbitMq_Messages\obj\Debug\net8.0\RabbitMq_Messages.csproj.CoreCompileInputs.cache
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\Saga_Design_Pattern\RabbitMq_Messages\obj\Debug\net8.0\RabbitMq_Messages.dll
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\Saga_Design_Pattern\RabbitMq_Messages\obj\Debug\net8.0\refint\RabbitMq_Messages.dll
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\Saga_Design_Pattern\RabbitMq_Messages\obj\Debug\net8.0\RabbitMq_Messages.pdb
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\Saga_Design_Pattern\RabbitMq_Messages\obj\Debug\net8.0\ref\RabbitMq_Messages.dll

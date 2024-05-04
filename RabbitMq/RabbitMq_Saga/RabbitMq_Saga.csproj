@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Title>RabbitMq_Saga</Title>
+    <Authors>Omar Silva Yepes</Authors>
+  </PropertyGroup>
+
+  <ItemGroup>
+	  <PackageReference Include="MassTransit" Version="6.2.5" />
+	  <PackageReference Include="MassTransit.EntityFrameworkCore" Version="6.2.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\RabbitMq_Messages\RabbitMq_Messages.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,15 @@
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\Saga_Design_Pattern\RabbitMq\RabbitMq_Saga\bin\Debug\net8.0\RabbitMq_Saga.deps.json
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\Saga_Design_Pattern\RabbitMq\RabbitMq_Saga\bin\Debug\net8.0\RabbitMq_Saga.dll
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\Saga_Design_Pattern\RabbitMq\RabbitMq_Saga\bin\Debug\net8.0\RabbitMq_Saga.pdb
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\Saga_Design_Pattern\RabbitMq\RabbitMq_Saga\bin\Debug\net8.0\RabbitMq_Messages.dll
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\Saga_Design_Pattern\RabbitMq\RabbitMq_Saga\bin\Debug\net8.0\RabbitMq_Messages.pdb
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\Saga_Design_Pattern\RabbitMq\RabbitMq_Saga\obj\Debug\net8.0\RabbitMq_Saga.csproj.AssemblyReference.cache
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\Saga_Design_Pattern\RabbitMq\RabbitMq_Saga\obj\Debug\net8.0\RabbitMq_Saga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\Saga_Design_Pattern\RabbitMq\RabbitMq_Saga\obj\Debug\net8.0\RabbitMq_Saga.AssemblyInfoInputs.cache
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\Saga_Design_Pattern\RabbitMq\RabbitMq_Saga\obj\Debug\net8.0\RabbitMq_Saga.AssemblyInfo.cs
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\Saga_Design_Pattern\RabbitMq\RabbitMq_Saga\obj\Debug\net8.0\RabbitMq_Saga.csproj.CoreCompileInputs.cache
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\Saga_Design_Pattern\RabbitMq\RabbitMq_Saga\obj\Debug\net8.0\RabbitMq_Saga.csproj.CopyComplete
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\Saga_Design_Pattern\RabbitMq\RabbitMq_Saga\obj\Debug\net8.0\RabbitMq_Saga.dll
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\Saga_Design_Pattern\RabbitMq\RabbitMq_Saga\obj\Debug\net8.0\refint\RabbitMq_Saga.dll
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\Saga_Design_Pattern\RabbitMq\RabbitMq_Saga\obj\Debug\net8.0\RabbitMq_Saga.pdb
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\Saga_Design_Pattern\RabbitMq\RabbitMq_Saga\obj\Debug\net8.0\ref\RabbitMq_Saga.dll

@@ -1,0 +1,5 @@
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\Saga_Design_Pattern\RabbitMq\Saga_Machine\obj\Debug\net8.0\Saga_Machine.csproj.AssemblyReference.cache
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\Saga_Design_Pattern\RabbitMq\Saga_Machine\obj\Debug\net8.0\Saga_Machine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\Saga_Design_Pattern\RabbitMq\Saga_Machine\obj\Debug\net8.0\Saga_Machine.AssemblyInfoInputs.cache
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\Saga_Design_Pattern\RabbitMq\Saga_Machine\obj\Debug\net8.0\Saga_Machine.AssemblyInfo.cs
+C:\Users\omary\OneDrive\Escritorio\LearningDEV\Saga_Design_Pattern\RabbitMq\Saga_Machine\obj\Debug\net8.0\Saga_Machine.csproj.CoreCompileInputs.cache

@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>False</GeneratePackageOnBuild>
+    <Authors>Omar Silva Yepes</Authors>
+    <Description>RabbitMq for Order Messages</Description>
+    <Version>1.0.1</Version>
+  </PropertyGroup>
+
+</Project>

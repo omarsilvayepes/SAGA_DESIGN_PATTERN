@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RabbitMq", "RabbitMq\RabbitMq.csproj", "{0A7AFBFE-4DD1-4362-A157-5D9047BFEE64}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RabbitMq_Messages", "..\RabbitMq_Messages\RabbitMq_Messages.csproj", "{875B75EC-420B-41CF-A345-8C7BCAB791F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMq_Saga", "RabbitMq_Saga\RabbitMq_Saga.csproj", "{310CEFB1-AE95-4E9F-B843-68CEA109E580}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Saga_Machine", "Saga_Machine\Saga_Machine.csproj", "{DC373039-0390-40B5-956D-5C9517E994DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A7AFBFE-4DD1-4362-A157-5D9047BFEE64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A7AFBFE-4DD1-4362-A157-5D9047BFEE64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A7AFBFE-4DD1-4362-A157-5D9047BFEE64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A7AFBFE-4DD1-4362-A157-5D9047BFEE64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{875B75EC-420B-41CF-A345-8C7BCAB791F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{875B75EC-420B-41CF-A345-8C7BCAB791F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{875B75EC-420B-41CF-A345-8C7BCAB791F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{875B75EC-420B-41CF-A345-8C7BCAB791F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{310CEFB1-AE95-4E9F-B843-68CEA109E580}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{310CEFB1-AE95-4E9F-B843-68CEA109E580}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{310CEFB1-AE95-4E9F-B843-68CEA109E580}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{310CEFB1-AE95-4E9F-B843-68CEA109E580}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC373039-0390-40B5-956D-5C9517E994DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC373039-0390-40B5-956D-5C9517E994DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC373039-0390-40B5-956D-5C9517E994DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC373039-0390-40B5-956D-5C9517E994DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94035CD0-FF14-4C76-94B9-AFD14A4331E7}
+	EndGlobalSection
+EndGlobal
